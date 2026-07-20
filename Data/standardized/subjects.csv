@@ -1,0 +1,29 @@
+dataset,subject_id,subject_type,diet,design,sex,strain_background,age,cage,tumbly_unit,future_condition,notes
+Lab A,1316,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab A,1338,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab A,1339,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab A,1340,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab A,1341,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab A,1342,mouse,within (ADL+TRF),within,Male,human APOE4 knock-in,~8 months,,,,single-housed; each mouse measured under ADL then TRF
+Lab B,E1,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4743.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,E2,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4743.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,E3,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4743.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,F1,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4744.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,F2,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4744.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,F3,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4744.0,,1.2J CHIMERA/bTBI + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,G1,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4745.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,G2,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4745.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,G3,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4745.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,H1,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4746.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,H2,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4746.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,H3,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4746.0,,1.2J CHIMERA/bTBI + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,I1,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4747.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,I2,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4747.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,I3,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4747.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,J1,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4748.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,J2,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4748.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,J3,mouse,TRF,between,Male,C57BL/6J,~7-8 weeks,4748.0,,sham + TRF,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,K1,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4777.0,,sham + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,K2,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4777.0,,sham + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,K3,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4777.0,,sham + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
+Lab B,K4,mouse,control,between,Male,C57BL/6J,~7-8 weeks,4777.0,,sham + AL,group-housed by cage; pre-injury (no injury applied in this dataset)
