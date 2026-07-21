@@ -12,6 +12,7 @@ Figures for the Tumbly methods paper
 <br>
 
 
-<img width="1572" height="1352" alt="image" src="https://github.com/user-attachments/assets/d63f73c0-f3a6-48c2-afde-860d1d0bd60c" />
+<img width="1572" height="1352" alt="image" src="https://github.com/user-attachments/assets/8b26e131-f27e-4534-b42f-9c568639b2a8" />
+
 
 
