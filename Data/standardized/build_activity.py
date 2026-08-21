@@ -11,7 +11,7 @@ import pandas as pd
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CYN = os.path.join(HERE, "..", "Cynthia")
-TRF_START = pd.Timestamp("2026-06-25")            # Lab A day_index = 0 (matches the other tables)
+TRF_START = pd.Timestamp("2026-06-24")            # Lab A day_index = 0 = ADL->TRF transition (matches other tables)
 
 
 # ---------- actogram counts ----------
