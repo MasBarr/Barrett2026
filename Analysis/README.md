@@ -1,6 +1,6 @@
 # Barrett2026
 Figures for the Tumbly methods paper
-## <a href="https://colab.research.google.com/drive/1zrhE49_EvAV27y1SpcAarm5_u4qC2ile?usp=sharing">Click here</a> for analysis code for Figure 2.
+# <a href="https://colab.research.google.com/drive/1zrhE49_EvAV27y1SpcAarm5_u4qC2ile?usp=sharing">Click here</a> for analysis code for Figure 2.
 <br>
 
 
@@ -8,7 +8,8 @@ Figures for the Tumbly methods paper
 
 
 <br>
-## <a href="https://colab.research.google.com/drive/1ZKvldZHBBz0hevoEVvWAeofbc5CmIr8p?usp=sharing">Click here</a> for analysis code for Figure 3.
+
+# <a href="https://colab.research.google.com/drive/1ZKvldZHBBz0hevoEVvWAeofbc5CmIr8p?usp=sharing">Click here</a> for analysis code for Figure 3.
 <br>
 
 
