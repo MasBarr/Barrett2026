@@ -4,15 +4,16 @@ Figures for the Tumbly methods paper
 <br>
 
 
-<img width="1354" height="1237" alt="image" src="https://github.com/user-attachments/assets/fb0b2ce8-4ad7-4526-8849-e57dcf703550" />
+<img width="1086" height="1374" alt="image" src="https://github.com/user-attachments/assets/1c0a2a09-57c2-4080-b245-87c53815812e" />
 
 
 
-## <a href="https://colab.research.google.com/drive/1yhd6W25N7XGyOfooiq-3khIkoDCuEdEC?usp=sharing">Click here</a> for analysis code for Figure 3.
+## <a href="https://colab.research.google.com/drive/1ZKvldZHBBz0hevoEVvWAeofbc5CmIr8p?usp=sharing">Click here</a> for analysis code for Figure 3.
 <br>
 
 
-<img width="1572" height="1352" alt="image" src="https://github.com/user-attachments/assets/8b26e131-f27e-4534-b42f-9c568639b2a8" />
+<img width="1095" height="1092" alt="image" src="https://github.com/user-attachments/assets/cdcab381-bdef-4291-ae29-b984fb3d49c4" />
+
 
 
 
